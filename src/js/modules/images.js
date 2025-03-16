@@ -26,6 +26,7 @@ const images = () => {
         width: 100%;
         max-width: 25vw;
         height: auto;
+        object-fit: cover;
         border-radius: 10px;
         cursor: pointer;
       `;
